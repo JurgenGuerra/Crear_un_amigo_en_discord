@@ -3,19 +3,27 @@ Repositorio donde probablemente recopile toda la info que utilizaré para crear 
 Por el momento cuenta con 6 comandos posibles:
 
  ComandosBasicos:
+ 
  invitar    : Genera una invitación para ingresar a este servidor.
    
 Miscelánea:
+
 Pregunta   : Respuestas aleatorias a una pregunta aleatoria
 
 Servidor:
+
 status     : Muestra el estado del bot en este servidor :3
+
 Torneo:
+
 cronograma : Muestra el cronograma del evento.
+
 draw       : Muestra el Draw de la ronda actual.
+
 moción    : Muestra la moción de la ronda actual.
 
  No Category:
+ 
  help      : Muestra un mensaje con la descripción del uso de los comandos
 
 
