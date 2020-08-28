@@ -2,19 +2,19 @@
 Repositorio donde probablemente recopile toda la info que utilizaré para crear un bot en discord que ayuda a llevar adelante un torneo en discord.
 Por el momento cuenta con 6 comandos posibles:
 
- ComandosBasicos:
+ ### ComandosBasicos:
  
  - invitar    : Genera una invitación para ingresar a este servidor.
    
-Miscelánea:
+### Miscelánea:
 
 - Pregunta   : Respuestas aleatorias a una pregunta aleatoria
 
-Servidor:
+### Servidor:
 
 - status     : Muestra el estado del bot en este servidor :3
 
-Torneo:
+### Torneo:
 
 - cronograma : Muestra el cronograma del evento.
 
